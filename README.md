@@ -8,13 +8,12 @@ The infection is spreading among people at an exponential rate.</p>
 
 
 
-<h3><strong>Objective</strong> : Predicting the number of confirmed covid19 cases in India</h3>
+<h3><br><strong>Objective</strong></br>: Predicting the number of confirmed covid19 cases in India</h3>
 
 <h3><br>Implementation</br>  Linear Regression algorithm from sklearn library, PolynomialFeatures to build the Machine Learning model. </h3>
 
 <h3><l>Dataset</l><h3>
-  
-<p>The dataset consists of covid19 confirmed cases, recovered cases, and deaths, of all the countries, recorded day-wise, since January 22 2020, to till August 9th, 2020.  (source - kaggle)
+ <p>The dataset consists of covid19 confirmed cases, recovered cases, and deaths, of all the countries, recorded day-wise, since January 22 2020, to till August 9th, 2020.  (source - kaggle)
   We filter this data Such that we Have Data of Indias Dataset.</p>
   
  
