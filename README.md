@@ -10,7 +10,7 @@ The infection is spreading among people at an exponential rate.</p>
 
 <h3><strong>Objective</strong> : Predicting the number of confirmed covid19 cases in India</h3>
 
-<h3><l>Implementation</l>  Linear Regression algorithm from sklearn library, PolynomialFeatures to build the Machine Learning model. </h3>
+<h3><br>Implementation</br>  Linear Regression algorithm from sklearn library, PolynomialFeatures to build the Machine Learning model. </h3>
 
 <h3><l>Dataset</l><h3>
   
